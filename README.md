@@ -1,5 +1,5 @@
 # Snack Expo (MERN)
 
-Fron End :
+FrontEnd :
 https://snack.expo.dev/@alriawi/6?platform=web
  

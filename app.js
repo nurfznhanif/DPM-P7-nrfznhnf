@@ -10,7 +10,7 @@ app.use(cors());
 
 app.use(express.json());
 
-const mongoUrl = "mongodb+srv://eliteisan:admin@dpm2023.arvk2ot.mongodb.net/?retryWrites=true&w=majority";
+const mongoUrl = "mongodb+srv://nrfznhnf:misterhan19@cluster0.fngxe3r.mongodb.net/?retryWrites=true&w=majority";
 
 const JWT_SECRET = "hvdvay6ert72839289()aiyg8t87qt72393293883uhefiuh78ttq3ifi78272jdsds039[]]pou89ywe";
 
